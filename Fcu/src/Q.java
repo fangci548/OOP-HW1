@@ -3,7 +3,7 @@ public class Q {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is lab haha.");
+		System.out.println("kialin stupid.");
 	}
 
 }
